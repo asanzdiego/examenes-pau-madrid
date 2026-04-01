@@ -1,0 +1,11 @@
+mv "2025-2026 Modelo examen TecnologÃ­a e IngenierÃ­a II.pdf" "2025-2026 Modelo examen Tecnologi­a e Ingenieri­a II.pdf"
+mv "2024-2025 Modelo examen TecnologÃ­a e IngenierÃ­a II.pdf" "2024-2025 Modelo examen Tecnologi­a e Ingenieri­a II.pdf"
+mv "2023-2024 Modelo de examen de TecnologÃ­a e IngenierÃ­a II.pdf" "2023-2024 Modelo de examen de Tecnologi­a e Ingenieri­a II.pdf"
+mv "2024-2025 Ordinaria Soluciones TecnologÃ­a e IngenierÃ­a II.pdf" "2024-2025 Ordinaria Soluciones Tecnologi­a e Ingenieri­a II.pdf"
+mv "2023-2024 Ordinaria Soluciones TencologÃ­a e IngenierÃ­a II coincidencias.pdf" "2023-2024 Ordinaria Soluciones Tencologi­a e Ingenieria II coincidencias.pdf"
+mv "2023-2024 Ordinaria Soluciones TecnologÃ­a e IngenierÃ­a II.pdf" "2023-2024 Ordinaria Soluciones Tecnologi­a e Ingenieri­a II.pdf"
+mv "2024-2025 Extraordinaria TecnologÃ­a e IngenierÃ­a II coincidencias.pdf" "2024-2025 Extraordinaria Tecnologi­a e Ingenieri­a II coincidencias.pdf"
+mv "2024-2025 Extraordinaria TecnologÃ­a e IngenierÃ­a II.pdf" "2024-2025 Extraordinaria Tecnologi­a e Ingenieri­a II.pdf"
+mv "2023-2024 Extraordinaria Soluciones TecnologÃ­a e IngenierÃ­a.pdf" "2023-2024 Extraordinaria Soluciones Tecnologi­a e Ingenieri­a.pdf"
+mv "2025-2026 Criterios de CorrecciÃ³n Generales.pdf" "2025-2026 Criterios de Correccion Generales.pdf"
+
