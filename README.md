@@ -1,21 +1,21 @@
 # Exámenes PAU Madrid
 
-Repositorio con exámenes, modelos y soluciones en PDF de varias asignaturas de la PAU/EvAU de Madrid, organizados por materia.
+Repositorio con exámenes, modelos y soluciones en PDF de varias asignaturas de la PAU de Madrid, organizados por materia.
 
-El contenido está recopilado principalmente desde páginas de la UC3M y preparado para dos usos:
+El contenido está recopilado principalmente desde [páginas de la UC3M](https://www.uc3m.es/pruebasacceso/modelos-examenes) y preparado para dos usos:
 
 - consultar los PDFs por asignatura y curso;
 - generar un PDF recopilatorio por carpeta con índice inicial.
 
 ## Asignaturas incluidas
 
-- `filosofia`
-- `fisica`
-- `ingles`
-- `lengua`
-- `matematicas`
-- `quimica`
-- `tecnologia`
+- [filosofia](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/filosofia)
+- [fisica](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/fisica)
+- [ingles](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/ingles)
+- [lengua](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/lengua)
+- [matematicas](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/matematicas)
+- [quimica](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/quimica)
+- [tecnologia](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/tecnologia)
 
 Cada carpeta contiene PDFs de distintos cursos académicos, normalmente entre `2017-2018` y `2025-2026`, según la asignatura.
 
@@ -29,11 +29,18 @@ En la raíz:
 
 En cada carpeta de asignatura hay:
 
-- PDFs de exámenes modelo, convocatorias ordinarias y extraordinarias y, en algunos casos, documentos de coincidencias, todas con sus soluciones.
+- PDFs de exámenes modelo, convocatorias ordinarias, extraordinarias, todas con sus soluciones.
 - `imprimir.md`: listado ordenado de PDFs a incluir en el recopilatorio de la asignatura. Las líneas comentadas con `#` quedan excluidas.
 - `mv.sh`: script auxiliar para renombrar archivos descargados y normalizar nombres o corregir problemas de codificación.
 - `informe_descargas.json` y `informe_descargas.csv`: trazas de descarga por asignatura.
-- un PDF final con el nombre de la carpeta, por ejemplo `fisica/fisica.pdf` o `lengua/lengua.pdf`.
+- un PDF final con el nombre de la carpeta:
+    - [filosofia.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/filosofia/filosofia.pdf)
+    - [fisica.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/fisica/fisica.pdf)
+    - [ingles.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/ingles/ingles.pdf)
+    - [lengua.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/lengua/lengua.pdf)
+    - [matematicas.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/matematicas/matematicas.pdf)
+    - [quimica.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/quimica/quimica.pdf)
+    - [tecnologia.pdf](https://github.com/asanzdiego/examenes-pau-madrid/tree/main/tecnologia/tecnologia.pdf)
 
 ## Convención del contenido
 
@@ -100,4 +107,3 @@ Los cuadernos instalan dependencias automáticamente si faltan. Se usan al menos
 
 - Algunos nombres de archivo conservan huellas de problemas de codificación originales, y por eso existen scripts `mv.sh`.
 - No todas las asignaturas tienen exactamente el mismo número de documentos ni la misma cobertura por curso.
-
